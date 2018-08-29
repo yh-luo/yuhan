@@ -1,6 +1,6 @@
 baseurl = "https://yuhan.netlify.com/" # Hostname (and path) to the root.
 title = "Yu-Han Luo" # Site title.
-theme = "hugo-coder" # Set the theme.
+theme = "hugo-coder-1.0" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
 defaultcontentlanguage = "en" # The default content language.
 hasCJKLanguage = true
