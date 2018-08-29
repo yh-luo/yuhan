@@ -1,0 +1,47 @@
+baseurl = "https://yh.netlify.com/" # Hostname (and path) to the root.
+title = "Yu-Han Luo" # Site title.
+theme = "hugo-coder" # Set the theme.
+languagecode = "en" # The site’s language code used to generate RSS.
+defaultcontentlanguage = "en" # The default content language.
+hasCJKLanguage = true
+
+paginate = 20 # Default number of pages per page in pagination.
+canonifyurls = true # Enable to turn relative URLs into absolute.
+
+pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
+pygmentscodefences = true # Enable code fence background highlighting.
+pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
+
+disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
+
+[params] # theme parameters
+    author = "Yu-Han Luo" # Author's name.
+    description = "Yu-Han's personal website" # Site description.
+    keywords = "blog,developer,personal,psychology" # Site keywords.
+    avatarurl = "images/avatar.png" # Contain the path of the optionnal avatar in the static folder.
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/yh-luo"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/elliot_yh"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "Projects"
+    weight = 1
+    url  = "/projects/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
