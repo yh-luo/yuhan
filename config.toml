@@ -27,8 +27,13 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
-    weight = 3
+    weight = 2
     url = "https://twitter.com/elliot_yh"
+[[params.social]]
+    name = "ResearchGate"
+    icon = "ai ai-researchgate ai-2x"
+    weight = 3
+    url = "https://www.researchgate.net/profile/Yu_Han_Luo"
 
 # Menu links
 [[menu.main]]
