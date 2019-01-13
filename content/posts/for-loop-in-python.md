@@ -1,7 +1,6 @@
 ---
 title: "For Loop in Python"
 date: 2019-01-14T00:52:11+08:00
-draft: true
 categories:
   - random
 ---
