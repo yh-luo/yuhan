@@ -1,7 +1,6 @@
 ---
 date: '2018-11-06T00:58:28+08:00'
 title: Git submodules is hard to do...
-slug: git-module-stuffs
 categories:
   - random
 ---
