@@ -12,7 +12,7 @@ pygmentsstyle = "dracula" # Color-theme or style for syntax highlighting.
 pygmentscodefences = true # Enable code fence background highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 
-disqusShortname = "yuhanluo_tw"
+disqusShortname = "yu-han-luo"
 
 [params] # theme parameters
     author = "Yu-Han Luo" # Author's name.
