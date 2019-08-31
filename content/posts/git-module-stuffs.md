@@ -50,7 +50,7 @@ $ cd -
 $ git pull
 # commit the changes in subprojects and update the local project
 $ git add .
-$ git commit -am "Pulled down the awesome update"
+$ git commit -m "Pulled down the awesome update"
 ```
 
 完成！
