@@ -1,10 +1,10 @@
-+++
-date = "2018-12-06"
-title = "About"
-hidden = true
-+++
+---
+date: "2018-12-06"
+title: "About"
+hidden: true
+---
 
-Hi, I'm Yu-Han Luo. I'm currently pursuing a master degree of psychology in National Taiwan University in Taiwan.
+Hi, I'm Yu-Han Luo. I'm currently a research assistant at NTU BabyLab of psychology department in National Taiwan University.
 
 ## My research interests
 
