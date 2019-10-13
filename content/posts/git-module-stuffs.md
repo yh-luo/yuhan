@@ -1,8 +1,8 @@
 ---
-date: '2018-11-06T00:58:28+08:00'
-title: Git submodules is hard to do...
+date: "2018-11-06T00:58:28+08:00"
+title: "Git submodules is hard to do..."
 categories:
-  - random
+  - "random"
 ---
 
 一時心血來潮想要在網頁上加上 Research Gate 的連結，FontAwesome 其實有提供 icon，但不知道為什麼在我的網頁上呈現不出 G，只剩一個黑框框與 R，因此我決定用 [Academicons](https://jpswalsh.github.io/academicons/)提供的 icon。
