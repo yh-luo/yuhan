@@ -1,6 +1,6 @@
 baseurl = "https://yuhan.netlify.com/" # Hostname (and path) to the root.
 title = "Yu-Han Luo" # Site title.
-theme = "hugo-coder-1.0" # Set the theme.
+theme = "hugo-coder" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
 defaultcontentlanguage = "en" # The default content language.
 hasCJKLanguage = true
@@ -31,11 +31,6 @@ disqusShortname = "yu-han-luo"
     icon = "fab fa-twitter fa-2x"
     weight = 2
     url = "https://twitter.com/elliot_yh"
-[[params.social]]
-    name = "ResearchGate"
-    icon = "ai ai-researchgate ai-2x"
-    weight = 3
-    url = "https://www.researchgate.net/profile/Yu_Han_Luo"
 
 # Menu links
 [[menu.main]]
